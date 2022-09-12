@@ -1,1 +1,1 @@
-# Greedy-Best-First-Search-algorithm-and-A-algorithm
+# Greedy-Best-First-Search-algorithm-and-A*-algorithm
